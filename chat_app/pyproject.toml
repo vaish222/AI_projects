@@ -1,0 +1,10 @@
+[project]
+name = "chat-app"
+version = "0.1.0"
+description = "Local LLM Chat based App"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ollama>=0.6.1",
+    "streamlit>=1.56.0",
+]
