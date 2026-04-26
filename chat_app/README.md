@@ -1,6 +1,6 @@
 # Local LLM Chatbot
 
-
+A chat-based AI application built with Python that runs entirely on your local machine. Designed for privacy-first AI interactions with no API costs, keeping your data secure while giving you full control over your code and models.
 
 # Tech stack used
 Python: The core programming language that ties together all components of the project.
