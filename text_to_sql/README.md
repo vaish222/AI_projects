@@ -10,12 +10,6 @@ Ollama: A tool for running powerful language models like Llama and Mistral local
 LangChain: A framework that enables seamless integration between AI models and databases for query generation and processing.
 
 Streamlit: A Python framework that quickly transforms scripts into interactive web applications.
-## Setup
-1. Download Ollama from https://ollama.com/
-2. Pull the model using command
-```bash
-    ollama pull llama3
-```
 
 ####  Setup with uv (Recommended)
 
