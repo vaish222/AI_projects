@@ -1,3 +1,5 @@
 # AI_projects
-text_to_sql - 
-Text-to-SQL converts natural language questions into SQL queries, making it easy to interact with databases and retrieve insights without writing code.
+1. text_to_sql - Text-to-SQL converts natural language questions into SQL queries, making it easy to interact with databases and retrieve insights without writing code.
+2. Local LLM chatbot - A chat-based AI application built with Python that runs entirely on your local machine. Designed for privacy-first AI interactions with no API costs, keeping your data secure while giving you full control over your code and models.
+
+
